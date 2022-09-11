@@ -1,1 +1,1 @@
-# AI-Assistant
+Basic AI assistant in Python.
