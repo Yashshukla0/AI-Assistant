@@ -53,9 +53,7 @@ def taskExe():
             speak("why tigers can't hide")
             speak("because they are spotted")
 
-        elif 'i love you ' in query:
-            speak("i love you too")
-            speak("but as a friend")
+        
  
         elif 'youtube' in query:
             query=query.replace("jarvis","")
